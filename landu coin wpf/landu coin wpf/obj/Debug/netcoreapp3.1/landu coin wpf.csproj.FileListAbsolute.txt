@@ -1,0 +1,19 @@
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\bin\Debug\netcoreapp3.1\landu coin wpf.exe
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\bin\Debug\netcoreapp3.1\landu coin wpf.deps.json
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\bin\Debug\netcoreapp3.1\landu coin wpf.runtimeconfig.json
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\bin\Debug\netcoreapp3.1\landu coin wpf.runtimeconfig.dev.json
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\bin\Debug\netcoreapp3.1\landu coin wpf.dll
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\bin\Debug\netcoreapp3.1\landu coin wpf.pdb
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf_MarkupCompile.cache
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf_MarkupCompile.lref
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf.g.resources
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf.AssemblyInfo.cs
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf.dll
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\landu coin wpf.pdb
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\USER\source\repos\landu coin wpf\landu coin wpf\obj\Debug\netcoreapp3.1\Window1.baml
